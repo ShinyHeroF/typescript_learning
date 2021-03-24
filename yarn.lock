@@ -1333,7 +1333,7 @@
     webpack "^5.22.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^5.0.0-alpha.7":
+"@vue/cli-plugin-router@^5.0.0-alpha.7", "@vue/cli-plugin-router@~5.0.0-alpha.7":
   version "5.0.0-alpha.7"
   resolved "https://registry.npm.taobao.org/@vue/cli-plugin-router/download/@vue/cli-plugin-router-5.0.0-alpha.7.tgz?cache=0&sync_timestamp=1615981842158&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-router%2Fdownload%2F%40vue%2Fcli-plugin-router-5.0.0-alpha.7.tgz#70447bf5b0904f8d448a80a58b536c39c03e90f2"
   integrity sha1-cER79bCQT41EioCli1NsOcA+kPI=
@@ -8443,6 +8443,11 @@ vue-loader@^16.1.2:
     chalk "^4.1.0"
     hash-sum "^2.0.0"
     loader-utils "^2.0.0"
+
+vue-router@^4.0.3:
+  version "4.0.5"
+  resolved "https://registry.npm.taobao.org/vue-router/download/vue-router-4.0.5.tgz?cache=0&sync_timestamp=1615478338624&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-router%2Fdownload%2Fvue-router-4.0.5.tgz#dd0a4134bc950c37aef64b973e9ee1008428d8fa"
+  integrity sha1-3QpBNLyVDDeu9kuXPp7hAIQo2Po=
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.3:
   version "4.1.3"
